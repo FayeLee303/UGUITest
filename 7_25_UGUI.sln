@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_25_UGUI", "7_25_UGUI.csproj", "{877D2C5B-B94F-EE19-2A8B-A516092BB926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_25_UGUI.Editor", "7_25_UGUI.Editor.csproj", "{FF34568B-BDE8-CBE0-4FFA-60FC2ED13B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877D2C5B-B94F-EE19-2A8B-A516092BB926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877D2C5B-B94F-EE19-2A8B-A516092BB926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877D2C5B-B94F-EE19-2A8B-A516092BB926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877D2C5B-B94F-EE19-2A8B-A516092BB926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF34568B-BDE8-CBE0-4FFA-60FC2ED13B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF34568B-BDE8-CBE0-4FFA-60FC2ED13B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF34568B-BDE8-CBE0-4FFA-60FC2ED13B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF34568B-BDE8-CBE0-4FFA-60FC2ED13B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
